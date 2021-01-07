@@ -1,5 +1,6 @@
 public class GitFlow {
     public void add_Feature1(){
+        System.out.println("hot fix");
         System.out.println("This is feature1");
         System.out.println("Updating Feature1 ");
     }
